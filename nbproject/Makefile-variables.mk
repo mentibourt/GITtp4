@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux
-CND_ARTIFACT_NAME_Debug=git
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/git
+CND_ARTIFACT_NAME_Debug=gittp4
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/gittp4
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
-CND_PACKAGE_NAME_Debug=git.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/git.tar
+CND_PACKAGE_NAME_Debug=gittp4.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/gittp4.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux
-CND_ARTIFACT_NAME_Release=git
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/git
+CND_ARTIFACT_NAME_Release=gittp4
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/gittp4
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux/package
-CND_PACKAGE_NAME_Release=git.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/git.tar
+CND_PACKAGE_NAME_Release=gittp4.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/gittp4.tar
 #
 # include compiler specific variables
 #
